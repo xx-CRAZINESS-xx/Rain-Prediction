@@ -1,0 +1,31 @@
+/* body {
+    background-image:url('/static/glass_water_drops_183305_3840x2160.jpg');
+    font-family: 'Poppins', sans-serif;
+} */
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 41px;
+    margin-left: 65px;
+}
+
+.form {
+    background-color: white;
+    width: 70vw;
+    margin:40px auto
+    padding: 20px 50px;
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18),0 4px 15px 0 rgba(0,0,0,0.15);
+    border-radius: 12px;
+}
+.form h1 {
+    color: lightcoral;
+}
+
+.button {
+    padding: 5px 30px;
+    font-size: 18px;
+    background-color:lightcoral;
+}
